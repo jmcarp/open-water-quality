@@ -1,0 +1,7 @@
+xlrd
+numpy
+bokeh
+pandas
+geocoder
+requests
+mapbox-vector-tile
